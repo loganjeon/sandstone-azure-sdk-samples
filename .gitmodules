@@ -1,0 +1,9 @@
+[submodule "azure-eventhub/azure-event-hubs-c"]
+	path = azure-eventhub/azure-event-hubs-c
+	url = https://github.com/Azure/azure-event-hubs-c.git
+[submodule "azure-iothub/azure-iot-sdk-c"]
+	path = azure-iothub/azure-iot-sdk-c
+	url = https://github.com/Azure/azure-iot-sdk-c.git
+[submodule "azure-storage/azure-storage-cpp"]
+	path = azure-storage/azure-storage-cpp
+	url = https://github.com/Azure/azure-storage-cpp.git
